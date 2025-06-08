@@ -1,4 +1,20 @@
-# ALX Project 0x02 - Next.js Application
+# Next.js Project Setup and Basics
+
+## ALX Project 0x02 - Next.js Application
+
+### Introduction
+
+This repository serves as a comprehensive guide and hands-on project for learning Next.js fundamentals and modern React development practices. Created as part of the ALX Software Engineering Program, this project demonstrates how to build a full-stack web application from scratch using industry-standard tools and methodologies.
+
+The purpose of this repository is to:
+- **Teach Next.js Fundamentals**: Cover essential concepts like file-based routing, API routes, and server-side rendering
+- **Demonstrate Best Practices**: Showcase proper project structure, TypeScript integration, and component architecture
+- **Provide Practical Examples**: Include real-world components and pages that can be used as reference for future projects
+- **Establish Development Workflow**: Show how to set up, develop, test, and deploy a Next.js application
+
+Whether you're new to Next.js or looking to reinforce your understanding of modern React development, this repository provides a solid foundation with practical, working examples.
+
+---
 
 A modern, full-stack web application built with Next.js, TypeScript, and Tailwind CSS. This project demonstrates best practices in React development, component architecture, and user interface design.
 
