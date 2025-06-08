@@ -2,6 +2,7 @@ import Button from "@/components/common/Button";
 import Card from "@/components/common/Card";
 import PostModal from "@/components/common/PostModal";
 import Header from "@/components/layout/Header";
+import Layout from "@/components/layout/Layout";
 import { useState } from "react";
 
 export default function HomePage() {
@@ -14,7 +15,7 @@ export default function HomePage() {
   };
 
   return (
-    <>
+    <Layout>
       <Header />
       <div className="flex items-center justify-center h-screen gap-12">
         <h1 className="text-4xl font-bold text-black">Home Page</h1>
@@ -35,6 +36,6 @@ export default function HomePage() {
           </div>
         )}
       </div>
-    </>
+    </Layout>
   );
 }
